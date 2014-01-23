@@ -1,7 +1,12 @@
 Sääpoiju
 ========
 
-Sääpoiju on sääharrastajille ja -asiantuntijoille suunnattu sääsovellus Sailfish-alustalle.
+Sääpoiju on suomalaisille sääharrastajille ja -asiantuntijoille suunnattu sääsovellus Sailfish-alustalle.
+
+Tavoite
+=======
+
+Sovelluksen tavoitteena on tarjota mahdollisimman monipuolisia havaintotietoja helposti luettavassa muodossa. 
 
 TODO
 ====
