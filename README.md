@@ -11,13 +11,13 @@ Lisäykset ennen ensimmäistä julkaisuversiota:
 
 * latausilmaisin päivittäessä dataa
 * kansi
->* pari havaintoarvoa, esim. paine ja lämpötila
->* päivitys pyyhkäisemäppä
+> * pari havaintoarvoa, esim. paine ja lämpötila
+> * päivitys pyyhkäisemäppä
 * logo, ks. https://sailfishos.org/apps_icons.html
 * tietoja -löpinät
->* lisenssi
->* tekijät
->* avoimen datan logo
+> * lisenssi
+> * tekijät
+> * avoimen datan logo
 * Havaintopaikan valinta
 * ui-viilaukset
 
