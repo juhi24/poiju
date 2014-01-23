@@ -4,15 +4,14 @@ Sääpoiju
 Sääpoiju on suomalaisille sääharrastajille ja -asiantuntijoille suunnattu sääsovellus Sailfish-alustalle.
 
 Tavoite
-=======
+-------
 
 Sovelluksen tavoitteena on tarjota mahdollisimman monipuolisia havaintotietoja helposti luettavassa muodossa. 
 
 TODO
-====
+----
 
-Lisäykset ennen ensimmäistä julkaisuversiota:
----------------------------------------------
+### Lisäykset ennen ensimmäistä julkaisuversiota: ###
 
 * latausilmaisin päivittäessä dataa
 * kansi
@@ -30,8 +29,7 @@ Lisäykset ennen ensimmäistä julkaisuversiota:
 * Havaintopaikan valinta
 * ui-viilaukset
 
-Ideoita lisäominaisuuksiksi:
-----------------------------
+### Ideoita lisäominaisuuksiksi: ###
 
 * havaintopaikan automaattinen valinta paikannuksen perusteella (pitäisi olla helppo, koska api ymmärtää naatteja)
 * havainnot kartalla
