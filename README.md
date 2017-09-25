@@ -31,11 +31,11 @@ TODO
 
 ### Ideoita lisäominaisuuksiksi: ###
 
-* havaintopaikan automaattinen valinta paikannuksen perusteella (pitäisi olla helppo, koska api ymmärtää naatteja)
+* havaintopaikan automaattinen valinta paikannuksen perusteella (pitäisi olla helppo, koska fmi api ymmärtää naatteja)
 * havainnot kartalla
 
 > * lämpötila, tuuli, ym.
 > * tutkakuvat
-> * karttapohjana Suomen rajat svg:nä (löytyy), mukautuu ambience-väreihin
+> * simppeli karttapohja (rajat, suurimmat kaupungit? maakuntarajat? tiet?)
 
 * ennusteet
